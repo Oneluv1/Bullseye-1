@@ -1,0 +1,22 @@
+.nav{
+    background-color:none ;
+    overflow: hidden;
+    width: 100%;
+    height: 90px;   
+}
+
+.nav a{
+    text-decoration: none;
+    color: black;
+    padding: 12px;
+    margin-top: 12px;
+}
+.nav img{
+    margin-right: 220px;
+    margin-top:5px;
+    margin-left: 5rem;
+}
+.a{
+    background-image: url("C:\Users\adegunju.k\Downloads\Star 1.png"); 
+}
+
